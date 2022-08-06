@@ -1,1 +1,2 @@
-print("hii")
+n=input()
+print("hii"+n)
